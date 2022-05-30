@@ -2,7 +2,7 @@
 
 ### Reference Documentation
 
-For more information please take a look [there](https://dev.to/ulrich/)
+For more information please take a look [there](https://dev.to/ulrich/configure-keycloak-by-a-cli-extension-779)
 
 ### Try it
 
